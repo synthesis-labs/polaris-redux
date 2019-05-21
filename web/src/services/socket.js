@@ -1,6 +1,5 @@
 import store from "../store";
 
-// const endpoint = "wss://lena.p1.s7s.cloud/ws/updates";
 const endpoint = "ws://127.0.0.1:8080/ws";
 
 let socket;
