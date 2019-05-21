@@ -1,0 +1,16 @@
+.nav-link {
+  color: #212529;
+}
+
+.nav-link.active {
+  background-color: #e8f3ea;
+}
+
+.nav-link i {
+  margin-right: 12px;
+}
+
+.nav-link:hover {
+  color: #212529;
+  background-color: #e8f3ea;
+}
